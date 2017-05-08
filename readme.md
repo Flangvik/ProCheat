@@ -1,6 +1,6 @@
 # ProCheat
 Let's take CS:GO Pro scene as a reference, if you have been following the scene for some while ,you have definitely 
-seen these insane,out-of the world, shaky and "locking" type kill's once in the while. We all define this as the result of XK hours of gameplay,
+seen these insane,out-of the world, shaky and "locking" type kill's once in the while. We all define this as the result of X * K/hours of gameplay,
 pure intuition or just luck. But could it be more? How hard could it be to cheat on stage at a professional level?
 
 
