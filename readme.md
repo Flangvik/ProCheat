@@ -37,6 +37,6 @@ ESEA Anti-Cheat client is the top of the line, privacy breaking, mem-dumping ant
 
 
 
-Question?
+Questions?
 Feel free to contact me
-Skype and E-Mail : epost@skiddietech.com
+Skype or E-Mail : epost@skiddietech.com
