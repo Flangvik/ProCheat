@@ -1,3 +1,7 @@
+REM ## Executes the file "beep.vbs" from the memory drive named "SYSTEM"
+REM ## The .vbs takes care of running a possible cheat, bypassig UAC etc. 
+
+
 DELAY 1000
 GUI r
 DELAY 100
