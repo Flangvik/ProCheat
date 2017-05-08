@@ -17,6 +17,8 @@ This proof-of-concept demo show how the players on brought-along gear can inject
 It took me 1-2 hours modifying this keyboard to give it these capabilities, all we need now is the cheat to deliver the system and your ready to go
 (Not hard to find, private or public) 
 
+[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+
 ## Anti-Virus, UAC and VAC
 But what about Anti-Virus, UAC or VAC running on the system?
 Both UAC and VAC is a fucking joke (at the current state) and can be bypassed easily
