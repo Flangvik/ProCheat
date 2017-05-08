@@ -17,7 +17,7 @@ This proof-of-concept demo show how the players on brought-along gear can inject
 It took me 1-2 hours modifying this keyboard to give it these capabilities, all we need now is the cheat to deliver the system and your ready to go
 (Not hard to find, private or public) 
 
-[![ProCheat DEMO](http://vvcap.com/img/4XJFxU8txed.png)](https://www.youtube.com/watch?v=CvkHaOqkhxI-Y "Pro Cheat Demo")
+[![ProCheat DEMO](http://vvcap.com/img/h9k9YqY8Lrt.png)](https://www.youtube.com/watch?v=CvkHaOqkhxI-Y "Pro Cheat Demo")
 
 ## Anti-Virus, UAC and VAC
 But what about Anti-Virus, UAC or VAC running on the system?
