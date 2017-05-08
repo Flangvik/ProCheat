@@ -6,7 +6,7 @@ pure intuition or just luck. But could it be more? How hard could it be to cheat
 
 ## Every sport has cheaters
 Baseball,football etc all have them, why don't we?
-Price pool of hundreds of thousands of dollars, but not a single individual trying to take the short router?
+Price pool of hundreds of thousands of dollars, but not a single individual trying to take the short route?
 What would stop these players from paying some experienced and skilled programmer/developer to make the tools that will guarantee them the victory?
 Easy money right?
 
