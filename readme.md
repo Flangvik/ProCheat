@@ -20,8 +20,8 @@ It took me 1-2 hours modifying this keyboard to give it these capabilities, all 
 [![ProCheat DEMO](http://vvcap.com/img/h9k9YqY8Lrt.png)](https://www.youtube.com/watch?v=CvkHaOqkhxI-Y "Pro Cheat Demo")
 
 ## Anti-Virus, UAC and VAC
-But what about Anti-Virus, UAC or VAC running on the system?
-Both UAC and VAC is a fucking joke (at the current state) and can be bypassed easily
+But what about Anti-Virus, UAC or VAC running on the system?.
+Both UAC and VAC is a fucking joke (at the current state) and can be bypassed easily.
 Computers used by the players in these events are usually Mid-Range style systems in no need of Anti-Virus
 both to reduce performance drop and because the system is never exposed to the outside open internet. 
 
@@ -29,7 +29,7 @@ both to reduce performance drop and because the system is never exposed to the o
 ## Step-By-Step-By
 Documentation, pictures and the step-by-step process of making this keyboard will be posted in the close future.
 In short terms I disassembled the keyboard, located the 4 wires for the seconds USB 2.0 header/connection, split the power cable
-over my own button that I replaced an original button on the keyboard with, split another female USB cable, soldered the wires and programmer/inserted the ducky
+over my own button that I replaced an original button on the keyboard with, split another female USB cable, soldered the wires and inserted the ducky
 2 hours top's, no troubles and tons of room to work with (inside the keyboard, Thanks Corsair! ) 
 
 
