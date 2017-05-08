@@ -19,6 +19,11 @@ It took me 1-2 hours modifying this keyboard to give it these capabilities, all 
 
 [![ProCheat DEMO](http://vvcap.com/img/h9k9YqY8Lrt.png)](https://www.youtube.com/watch?v=CvkHaOqkhxI-Y "Pro Cheat Demo")
 
+So what is happening here?
+When i press and hold an spesific button on the keyboard, power will run to the Rubber-Ducky starting the execution of the script.
+3-4 seconds later and the cheat is loaded and ready. 
+In this case the button i "hijacked" was the Windows-Key-Lock button. 
+
 ## Anti-Virus, UAC and VAC
 But what about Anti-Virus, UAC or VAC running on the system?.
 Both UAC and VAC is a fucking joke (at the current state) and can be bypassed easily.
