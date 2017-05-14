@@ -31,23 +31,20 @@ Computers used by the players in these events are usually Mid-Range style system
 both to reduce performance drop and because the system is never exposed to the outside open internet. 
 
 
-## Step-By-Step-By
-Documentation, pictures and the step-by-step process of making this keyboard will be posted in the close future.
-In short terms I disassembled the keyboard, located the 4 wires for the seconds USB 2.0 header/connection, split the power cable
-over my own button that I replaced an original button on the keyboard with, split another female USB cable, soldered the wires and inserted the ducky
-2 hours top's, no troubles and tons of room to work with (inside the keyboard, Thanks Corsair! ) 
-
+## Build Log
 ![Inside the keyboard](https://github.com/SkiddieTech/ProCheat/blob/master/Images/01.jpg)
-
-
+So the install was pretty simple (Corsair made it very easy)
+I cut off the right top corner of the keyboard PCB where the original button was and hot-glued in my own button.
+The 2 USB cables used to connect to the keyboard split nicely into two headers inside of the keyboard, it made it extremely easy for me to disconnect the USB header that goes to the secondary USB port, split and solder on a female USB port for the rubby ducky. The powerline for this USB hub was split over my custom button so i could trigget the ducky at will. 
+2 hours top's, no troubles and tons of room to work with (inside the keyboard, Thanks Corsair! )
 
 
 ## Conclusion, FIX?
 It's a rather easy fix, make the ESEA Anti-Cheat client F**king mandatory on the tournament computers. 
 ESEA Anti-Cheat client is the top of the line, privacy breaking, mem-dumping anti-cheat like no other.
+You could (If not already implemented) add certain restrictions using the group policy system. However, this may or may not affect the efficiency of troubleshooting live problems for the IT Crew. 
 
 
 
 Questions?
-Feel free to contact me
-Skype or E-Mail : epost@skiddietech.com
+Feel free DM on twitter: https://twitter.com/SkiddieTech
