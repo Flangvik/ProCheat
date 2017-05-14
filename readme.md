@@ -28,6 +28,7 @@ In this case the button i "hijacked" was the Windows-Key-Lock button.
 But what about Anti-Virus, UAC or VAC running on the system?.
 Both UAC and VAC is a fucking joke (at the current state) and can be bypassed easily.
 (https://enigma0x3.net/ among others found some really simple and effective examples of flaws in the UAC system).
+Besides these simple methods that may or may not be pacthed, DLL hijacking is still a reliable option.
 
 Computers used by the players in these events are usually Mid-Range systems in no need of Anti-Virus
 both to reduce performance drop and because the system is never exposed to the outside open internet. 
@@ -47,7 +48,6 @@ Using these small 5v Arduino Micro-procsessors the sky is the limit.
 It's a rather easy fix, make the ESEA Anti-Cheat client F**king mandatory on the tournament computers. 
 ESEA Anti-Cheat client is the top of the line, privacy breaking, mem-dumping anti-cheat like no other.
 You could (If not already implemented) add certain restrictions using the group policy system. However, this may or may not affect the efficiency of troubleshooting live problems for the IT Crew. 
-
 
 
 Questions?
