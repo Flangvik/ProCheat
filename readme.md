@@ -27,7 +27,9 @@ In this case the button i "hijacked" was the Windows-Key-Lock button.
 ## Anti-Virus, UAC and VAC
 But what about Anti-Virus, UAC or VAC running on the system?.
 Both UAC and VAC is a fucking joke (at the current state) and can be bypassed easily.
-Computers used by the players in these events are usually Mid-Range style systems in no need of Anti-Virus
+(https://enigma0x3.net/ among others found some really simple and effective examples of flaws in the UAC system).
+
+Computers used by the players in these events are usually Mid-Range systems in no need of Anti-Virus
 both to reduce performance drop and because the system is never exposed to the outside open internet. 
 
 
