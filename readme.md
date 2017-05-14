@@ -37,6 +37,10 @@ In short terms I disassembled the keyboard, located the 4 wires for the seconds 
 over my own button that I replaced an original button on the keyboard with, split another female USB cable, soldered the wires and inserted the ducky
 2 hours top's, no troubles and tons of room to work with (inside the keyboard, Thanks Corsair! ) 
 
+![Inside the keyboard](https://raw.githubusercontent.com/SkiddieTech/ProCheat/Images/01.jpg)
+
+
+
 
 ## Conclusion, FIX?
 It's a rather easy fix, make the ESEA Anti-Cheat client F**king mandatory on the tournament computers. 
