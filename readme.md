@@ -38,6 +38,8 @@ I cut off the right top corner of the keyboard PCB where the original button was
 The 2 USB cables used to connect to the keyboard split nicely into two headers inside of the keyboard, it made it extremely easy for me to disconnect the USB header that goes to the secondary USB port, split and solder on a female USB port for the rubby ducky. The powerline for this USB hub was split over my custom button so i could trigget the ducky at will. 
 2 hours top's, no troubles and tons of room to work with (inside the keyboard, Thanks Corsair! )
 
+If you wanted more control of the execution you could always implenent an Arudino Pro mini inside aswell, maybe it looks for a a spesific pattern of key's pressed, comibnations of key's etc.
+Using these small 5v Arduino Micro-procsessors the sky is the limit. 
 
 ## Conclusion, FIX?
 It's a rather easy fix, make the ESEA Anti-Cheat client F**king mandatory on the tournament computers. 
